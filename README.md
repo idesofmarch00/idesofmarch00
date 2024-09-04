@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-I'm a passionate **Software Engineer** focused on building scalable, high-performance, and clean code web and mobile applications. I specialize in creating **Progressive Web Apps (PWA)**, **cross-platform mobile applications**, and **3D visual applications** using modern frameworks and technologies.
+I'm a passionate **Software Engineer** focused on learning new stuff every day and writing clean code web. I specialize in building scalable and high-performance **Progressive Web Apps (PWA)**, **cross-platform mobile applications**, and **3D visual applications** using modern frameworks and technologies.
 
 ### 🛠️ My Tech Stack
 
