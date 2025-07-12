@@ -8,17 +8,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a React Native project
 
-- 🌱 I’m currently learning Full Stack Web Development 
+- 🌱 I’m currently learning Full Stack Web Development
 
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - ⚡ Fun fact: ...
 -->
-- 🤔 I’m looking for help with Data Structures, Algorithms and ML/AI
+- 🤔 I’m looking for help with DS Algos, AR/VR and AI/ML
 
-- 💬 Chat with me about Football, Literature, F1, and Cinema
+- 💬 Chat with me about Football, Literature, F1, Gym and Cinema
 
-- 📫 How to reach me: Mail me at sa.idesofmarch@gmail.com
+- 📫 How to reach me: Mail me at sahilahmed.y2k@gmail.com
 
 - 😄 Pronouns: He/him/his
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-I'm a passionate **Software Engineer** focused on learning new stuff every day and writing clean code web. I specialize in building scalable and high-performance **Progressive Web Apps (PWA)**, **cross-platform mobile applications**, and **3D visual applications** using modern frameworks and technologies.
+I'm a passionate **Software Engineer** focused on learning new stuff every day and writing clean code. I specialize in building scalable and high-performance **Progressive Web Apps (PWA)**, **cross-platform mobile applications**, and **3D visual applications** using modern frameworks and technologies.
 
 ### 🛠️ My Tech Stack
 
